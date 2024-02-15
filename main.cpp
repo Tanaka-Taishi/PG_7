@@ -24,13 +24,4 @@ int main(){
 	std::cout << "ƒRƒs[" << CopyDuration.count() << "ƒÊs" << std::endl;
 	std::cout << "ˆÚ“®" << MoveDuration.count() << "ƒÊs" << std::endl;
 
-	//std::chrono
-
-	//std::move(o);
-	//int&& c = 1;
-
-	//Object o;
-	//Test(Test &&right){}
-
-	//Test &operator=(Test &&right){}
 }
